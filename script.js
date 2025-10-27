@@ -1,7 +1,7 @@
 const readyToCommit = true;
 const readyToLearn =  true;
 let user1Commit = true;
-let user1Learn = true;
+let user1Learn = false;
 
 if(user1Commit === readyToCommit && user1Learn === readyToLearn) {
     console.log("User 1 is eligible to attend Gida bootcamp!");
